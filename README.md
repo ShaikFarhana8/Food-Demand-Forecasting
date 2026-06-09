@@ -227,8 +227,27 @@ Food-Demand-Forecasting/
 
     └── audit_log.py
 ```
+📸 Screenshots
 
----
+## Dashboard
+
+![Dashboard](output/dashboard.png)
+
+## Forecast
+
+![Forecast](output/forecast.png)
+
+## Inventory
+
+![Inventory](output/inventory.png)
+
+## Admin Dashboard
+
+![Admin Dashboard](output/Admin_dashboard.png)
+
+## Analytics
+
+![Analytics](output/Analytics.png)
 
 ## Database Tables
 
@@ -312,17 +331,5 @@ streamlit run app.py
 * Reduces stock shortages
 * Improves restaurant profitability
 
----
-
-## Future Enhancements
-
-* User Authentication System
-* Multi-Branch Management
-* Email Notifications
-* Cloud Deployment
-* Advanced AI Chat Assistant
-* Supplier Management Module
-* Automated Procurement System
-* Mobile Application Integration
 
 **AI-Powered Restaurant Menu Demand Forecasting and Inventory Optimization System**
