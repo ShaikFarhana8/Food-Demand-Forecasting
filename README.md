@@ -239,7 +239,7 @@ Food-Demand-Forecasting/
 
 ## Inventory
 
-![Inventory](output/inventory.png)
+![Inventory](output/Inventory.png)
 
 ## Admin Dashboard
 
