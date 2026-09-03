@@ -292,34 +292,6 @@ Stores system activities.
 
 ---
 
-## How to Run the Project
-
-### Step 1: Clone Repository
-
-```bash
-git clone <repository-url>
-```
-
-### Step 2: Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### Step 3: Create Database
-
-```bash
-python -m database.schema
-```
-
-### Step 4: Run Streamlit Application
-
-```bash
-streamlit run app.py
-```
-
----
-
 ## Business Benefits
 
 * Reduces food wastage
